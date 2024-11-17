@@ -118,6 +118,10 @@ body{font-family: 'Montserrat', sans-serif;}
     color: gray;
 }
 
+#datelocation div{
+    display: flex;
+    justify-content: space-between;
+}
 #bio-data h3 {
     border: 1px solid #d3d3d3;
     text-transform: uppercase;
